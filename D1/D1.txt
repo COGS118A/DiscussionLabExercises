@@ -22,7 +22,7 @@
         "question_id": "question2",
         "answers": [
             {
-                "answer": "$\\frac{3}{5} \\times w_i \int^1_0 dydx$",
+                "answer": "$\\frac{3}{5} \\times w_i \\int^1_0 dydx$",
                 "id": 1
             },
             {
