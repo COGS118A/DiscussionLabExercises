@@ -4,7 +4,7 @@
         'type': 'multiple_choice',
         'question_id': 'A1',
         'answers': [
-            {'answer': 'precision': 'id': 0},
+            {'answer': 'precision', 'id': 0},
             {'answer': 'recall', 'id': 1},
             {'answer': 'f1', 'id': 2},
             {'answer': 'mse', 'id': 3}
@@ -15,7 +15,7 @@
         'type': 'multiple_choice',
         'question_id': 'A2',
         'answers': [
-            {'answer': 'precision': 'id': 0},
+            {'answer': 'precision', 'id': 0},
             {'answer': 'recall', 'id': 1},
             {'answer': 'f1', 'id': 2},
             {'answer': 'mse', 'id': 3}
