@@ -19,7 +19,7 @@
 {
 	"question": "\n Imagine you work at a social media company that would like to to semi-automate hate-speech detection. What metric might you use? (False positives are bad because they censor free speech BUT false negatives are also bad because they potentially harm users and damage your company's brand)",
 	"type": "multiple_choice",
-	"question_id": "A1",
+	"question_id": "A2",
 	"answers": [{
 		"answer": "precision",
 		"id": 0
