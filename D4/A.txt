@@ -1,0 +1,24 @@
+[
+    {
+        'question': '\n Imagine you work at a financial institution looking to short corporate bonds on the hunch that they will be downgraded. What metric should you use? (False positives are expensive but false negatives cost nothing)'
+        'type': 'multiple_choice',
+        'question_id': 'A1',
+        'answers': [
+            {'answer': 'precision': 'id': 0},
+            {'answer': 'recall', 'id': 1},
+            {'answer': 'f1', 'id': 2},
+            {'answer': 'mse', 'id': 3}
+        ]
+    }
+    {
+        'question': '\n Imagine you work at a social media company that would like to to semi-automate hate-speech detection. What metric might you use? (False positives are bad because they censor free speech BUT false negatives are also bad because they potentially harm users and damage your company's brand)'
+        'type': 'multiple_choice',
+        'question_id': 'A2',
+        'answers': [
+            {'answer': 'precision': 'id': 0},
+            {'answer': 'recall', 'id': 1},
+            {'answer': 'f1', 'id': 2},
+            {'answer': 'mse', 'id': 3}
+        ]
+    }
+]
