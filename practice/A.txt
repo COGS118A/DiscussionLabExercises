@@ -1,1 +1,1 @@
-[{'question': '\n    Welcome! Please choose $x^3$ to receive credit.\n    ', 'type': 'multiple_choice', 'question_id': 'ID your question by the file name and use a chronological order', 'answers': [{'answer': '$x$', 'id': 0}, {'answer': '$x^2$', 'id': 1}, {'answer': '$x^3$', 'id': 2}, {'answer': '$x^4$', 'id': 3}]}]
+[{'question': '\n    Welcome! Please choose $x^3$ to receive credit.\n    ', 'type': 'multiple_choice', 'question_id': 'A1', 'answers': [{'answer': '$x$', 'id': 0}, {'answer': '$x^2$', 'id': 1}, {'answer': '$x^3$', 'id': 2}, {'answer': '$x^4$', 'id': 3}]}]
